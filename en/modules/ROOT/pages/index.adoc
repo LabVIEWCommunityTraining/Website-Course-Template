@@ -1,0 +1,11 @@
+= Course overview
+
+In this section, add:
+
+- an overview of the content
+- the goals
+- the people targeted
+- the prerequisit knowledge
+- the recommended courses to take before and after
+
+TIP: This page is th eentry point of the course. 
