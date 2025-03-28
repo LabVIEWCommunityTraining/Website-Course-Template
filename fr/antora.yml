@@ -1,0 +1,9 @@
+name: template
+title: Modèle de cours
+version: v1.0
+# uncomment the prerelease: attribute when you want the version to be set as prerelease
+# prerelease: -beta
+nav:
+  - modules/ROOT/nav.adoc
+asciidoc:
+  attributes:

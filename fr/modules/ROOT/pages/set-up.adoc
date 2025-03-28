@@ -1,0 +1,3 @@
+= Set Up Instructions
+
+NOTE: Add all the instructions needed to take the course in this section.
