@@ -1,0 +1,7 @@
+= Website Course Template
+
+This repository is the starting point for a new CTI course.
+
+TIP: To create a new course create a new repository using this one as template
+
+Follow information in _CTI documentation section url to define_ to learnmore about the creation process.
