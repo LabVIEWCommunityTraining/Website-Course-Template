@@ -1,6 +1,6 @@
-= Course overview
+= Aperçu du cours
 
-Dans cette section, donner:
+Dans cette section, vous devez décrire :
 
 - Un aperçu du contenu du cours
 - Les objectifs
