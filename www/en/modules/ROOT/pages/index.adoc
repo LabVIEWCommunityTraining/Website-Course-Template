@@ -12,4 +12,4 @@ NOTE: This page is the entry point of the course.
 
 == Download
 
-{site-url}/{page-component-version}/{page-component-name}.pdf[PDF version of the course]
+{site-url}/{page-component-name}/{page-component-version}/{page-component-name}.pdf[PDF version of the course]
