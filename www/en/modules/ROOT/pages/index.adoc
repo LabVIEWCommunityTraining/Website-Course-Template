@@ -9,3 +9,7 @@ In this section, add:
 - the recommended courses to take before and after
 
 NOTE: This page is the entry point of the course. 
+
+== Download
+
+{site-url}/{page-component-name}.pdf[PDF version of the course]
