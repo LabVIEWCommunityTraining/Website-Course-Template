@@ -16,8 +16,6 @@ NOTE: This page is the entry point of the course.
 
 // do not include the PDF download link in the PDF itself
 
-{backend}
-
-ifeval::["{backend}" != "html5"]
+ifeval::["{backend}" == "html5"]
 * {site-url}/{page-component-name}/{page-component-version}/{page-component-name}.pdf[PDF version of the course]
 endif::[]
