@@ -12,6 +12,6 @@ NOTE: This page is the entry point of the course.
 
 == Download
 
-* https://labviewcommunitytraining.github.io/cti-documentation/course-material.zip[Course material zip]
+* https://labviewcommunitytraining.github.io/Website-Course-Template/course-material.zip[Course material zip]
 
 * {site-url}/{page-component-name}/{page-component-version}/{page-component-name}.pdf[PDF version of the course]
