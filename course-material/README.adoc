@@ -1,0 +1,8 @@
+= Course material folder
+
+This folder in intended to gather all files needed to take the course:
+- LabVIEW code exercices and solutions
+- Data files
+- …
+
+NOTE: Each time you push modification to this folder a zip file is created that can be download from the course overview section. 
