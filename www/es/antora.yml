@@ -1,6 +1,6 @@
 name: course-template
 title: Curso de plantilla
-version: v1.0
+version: true
 # uncomment the prerelease: attribute when you want the version to be set as prerelease
 # prerelease: -beta
 nav:
