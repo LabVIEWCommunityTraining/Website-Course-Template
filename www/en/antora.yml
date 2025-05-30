@@ -1,5 +1,5 @@
-name: template-course test
-title: Template course
+name: course_template
+title: Template
 version: true
 # uncomment the prerelease: attribute when you want the version to be set as prerelease
 # prerelease: -beta
