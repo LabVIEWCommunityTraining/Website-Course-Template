@@ -3,3 +3,5 @@
 This repository is the starting point for a new CTI course.
 
 Instruction to create a new course are available https://labviewcommunitytraining.github.io/www/en/new-course.html[here].
+
+NOTE: This template course is note directly accessible on the website, but you can access it at https://labviewcommunitytraining.github.io/www/en/course_template/v1.0/index.html to see how the template content is display.
