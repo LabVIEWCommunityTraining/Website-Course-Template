@@ -5,17 +5,28 @@ ifndef::loader-assembler[]
 .PDF version of the course
 [NOTE]
 ====
-You need to access this content offline? You can downlod the PDF version of the course {site-url}/{page-component-name}/{page-component-version}/_exports/{page-component-name}-{page-component-version}.pdf[here]
+*You need to access this content offline?* You can downlod the PDF version of the course {site-url}/{page-component-name}/{page-component-version}/_exports/{page-component-name}-{page-component-version}.pdf[here]
 ====
 endif::[]
 
-In this section, add:
-
-- an overview of the content
-- the goals
-- the people targeted
-- the prerequisite knowledge
-- the recommended courses to take before and after
-
 .To be remove when creating the course
-NOTE: This page is the entry point of the course. 
+NOTE: This page is the entry point of the course.
+
+== 🎯 Course Objective
+
+
+
+== 👥 Target Audience
+
+
+
+== 🗂️ Course Outline
+
+=== Lesson 1
+
+=== Lesson 2
+
+== ✅ Learning Outcomes
+
+
+
